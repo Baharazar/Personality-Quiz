@@ -53,7 +53,7 @@ This project is built using Swift and UIKit. Here's an overview of the main comp
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact me through GitHub or via email at [your.email@example.com](mailto:baharnikfal@gmail.com).
+If you have any questions, suggestions, or feedback, please don't hesitate to reach out. You can contact me through GitHub or via email at (mailto:baharnikfal@gmail.com).
 
 ---
 
